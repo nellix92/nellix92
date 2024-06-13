@@ -31,7 +31,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="angular" width="40"    height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQL" alt="Sass" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain.svg" title=".Net" width="40" height="40"/>&nbsp;
   </div>
